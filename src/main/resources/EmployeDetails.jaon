@@ -1,0 +1,17 @@
+[
+  {
+    "id": 12345,
+    "name": "Ravi",
+    "Address": "2nd cross Gandhi Nagar"
+  },
+  {
+    "id": 12346,
+    "name": "Ranjan",
+    "Address": "2nd cross Gandhi Nagar"
+  },
+  {
+    "id": 12347,
+    "name": "Pandey",
+    "Address": "2nd cross Gandhi Nagar"
+  }
+]
